@@ -6,7 +6,8 @@ h1{
 
 }
 .head{
-    display:flex;
+    display:flex
+    margin-bottom: 50px;
 }
 
 .anh{
